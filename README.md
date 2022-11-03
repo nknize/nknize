@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nick! I'm a member of the [Apache Software Foundation](http://apache.org)Apache Software Foundation Member</a>, a [Lucene](http://lucene.apache.org) and [Solr](http://solr.apache.org) committer and PMC member and the "forker" and first maintainer of the [OpenSearch project](github.com/opensearch-project). If you have any questions, want to collaborate, or are looking for some custom development or consultation feel free to reach me here, my [sponsors page](https://github.com/sponsors/nknize) or check out [knize.co](http://knize.co). Hope to hear from you!
+My name is Nick! I'm a member of the [Apache Software Foundation](http://apache.org), a [Lucene](http://lucene.apache.org) and [Solr](http://solr.apache.org) committer and PMC member and the "forker" and first maintainer of the [OpenSearch project](github.com/opensearch-project). If you have any questions, want to collaborate, or are looking for some custom development or consultation feel free to reach me here, my [sponsors page](https://github.com/sponsors/nknize) or check out [knize.co](http://knize.co). Hope to hear from you!
 
 <!--
 **nknize/nknize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
