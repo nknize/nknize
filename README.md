@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="http://knize.co/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nknize&show_icons=true" />
+</a>
