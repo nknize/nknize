@@ -40,8 +40,13 @@ Here are some ideas to get you started:
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nknize&show_icons=true&theme=dark)](http://knize.co)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nknize&theme=dark)](http://knize.co)
+<div id="stats" align="center">
+  <a href="http://knize.co">
+    <img src="https://github-readme-stats.vercel.app/api?username=nknize&show_icons=true&theme=dark" alt=""/>
+  </a>
+  <a href="http://knize.co">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nknize&theme=dark" alt=""/>
+  </a>
+</div>
   
 
