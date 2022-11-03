@@ -44,5 +44,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nknize&theme=dark)](http://knize.co)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nknize&layout=compact&theme=vision-friendly-dark&langs_count=8)](http://knize.co)
 
